@@ -9,7 +9,7 @@
   <br>
   - :iphone:Contato  || Here's ways to contact me:
   <br>
-  <a href="https://www.linkedin.com/in/tiago-segatti-271790271" target="_blank">
+  <a href="https://https://www.linkedin.com/in/tiago-segatti-/" target="_blank">
   <img loading="lazy"
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   target="_blank">
