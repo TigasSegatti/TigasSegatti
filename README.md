@@ -1,4 +1,4 @@
-  ### Seja Bem-vindo! Meu nome é Tiago Segatti :) || Welcome! My name is Tiago :)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
   Sou estudante de faculdade( bacharel de Ciência da Computação) e estou cursando também técnico em Desenvolvimento de sistemas.
   Im a college student ( Computer science bachelor)  and also studying systems development technician. 
   <div>
