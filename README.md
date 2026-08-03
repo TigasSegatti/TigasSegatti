@@ -2,14 +2,11 @@
  <br>
  </br>
  Sou estudante de faculdade( bacharel de Ciência da Computação) e estou cursando também técnico em Desenvolvimento de sistemas.
-  Im a college student ( Computer science bachelor)  and also studying systems development technician. 
   <div>
   No meu tempo livre gosto muito de sair com meus amigos, ler, jogar. 
   O que me motivou a entrar no mundo da tecnologia, foi que sempre gostei muito de jogos e sempre queria entender como eles eram feitos e minha paixão por computador desde que criança. 
-  In my free time, I enjoy spending time with friends, reading and playing.
-  What motivated me to start learning the "world of technology" was that I always loved playing games and always wanted to understand how they were made + my passion for computers since I was a little one.
   <br>
-  - :iphone:Contato  || Here's ways to contact me:
+  - :iphone:Contato
   <br>
   <a href="https://www.linkedin.com/in/tiago-segatti-271790271" target="_blank">
   <img loading="lazy"
@@ -18,7 +15,7 @@
   </a>
   <br>
   <br>
-  - :computer: Programas ultilizados por mim || Softwares I use: 
+  - :computer: Programas ultilizados por mim
     <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
