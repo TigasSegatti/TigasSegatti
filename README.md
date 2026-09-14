@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
  <br>
  </br>
- Sou estudante de faculdade( bacharel de Ciência da Computação) e estou cursando também técnico em Desenvolvimento de sistemas.
+ Sou estudante de faculdade( bacharel de Ciência da Computação) e formado em técnico em Desenvolvimento de sistemas.
   <div>
   No meu tempo livre gosto muito de sair com meus amigos, ler, jogar. 
   O que me motivou a entrar no mundo da tecnologia, foi que sempre gostei muito de jogos e sempre queria entender como eles eram feitos e minha paixão por computador desde que criança. 
