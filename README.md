@@ -13,14 +13,7 @@
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   target="_blank">
   </a>
-  <br>
-  <br>
-  - :computer: Programas ultilizados por mim
     <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
   </div>
   <a href="https://github.com/TigasSegatti">
   <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TigasSegatti&layout=compact&langs_count=7&theme=tokyonight"/>
